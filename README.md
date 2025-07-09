@@ -1,5 +1,11 @@
 ## Hi there 👋 ! I'm Gio.
-## An Information Technology Student.
+# An Information Technology Student.
+- 🔍 Still figuring things out (eventually)
+- 📧 Connect with me via: [Email](mailto:s2024100883@firstasia.edu.ph)
+
+## 📱 My Social Media 
+- [Instagram](https://instagram.com/iorustic)
+- [Facebook](https://facebook.com/gioangelo.lat) 
 <!--
 **luxmoncoeur/luxmoncoeur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
