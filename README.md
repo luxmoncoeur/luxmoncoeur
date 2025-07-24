@@ -1,7 +1,7 @@
 ## Hi there 👋 ! I'm Gio.
 # An Information Technology Student.
 - 🔍 Still figuring things out (eventually)
-- 📧 Connect with me via: [s2024100883@firstasia.edu.ph](mailto:s2024100883@firstasia.edu.ph) (School Account)
+- 📧 Connect with me via: [s2024100883@firstasia.edu.ph](mailto:s2024100883@firstasia.edu.ph) (School Account) or [glat20478@gmail.com](mailto: glat20478@gmail.com) (Personal Account)
 
 ## 📱 My Social Media 
 - [Instagram](https://instagram.com/iorustic)
