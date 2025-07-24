@@ -1,6 +1,6 @@
 ## Hi there 👋 ! I'm Gio.
-# An Information Technology Student.
-- 🔍 Still figuring things out (eventually)
+# Currently an Information Technology Student.
+🔍 Still figuring things out (eventually)
 
 📧 Connect with me via: 
 - [s2024100883@firstasia.edu.ph](mailto:s2024100883@firstasia.edu.ph) (School Account)
