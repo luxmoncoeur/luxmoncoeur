@@ -1,27 +1,19 @@
-## Hi there 👋 ! I'm Gio.
-# Currently an Information Technology Student.
-🔍 Still figuring things out (eventually)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=9BF7E2&center=true&vCenter=true&width=450&height=60&lines=Hey+%F0%9F%91%8B%2C+I'm+Gio" alt="Typing SVG">
+  </a>
+</p>
 
-📧 Connect with me via: 
-- [s2024100883@firstasia.edu.ph](mailto:s2024100883@firstasia.edu.ph) (School Account)
+<h3 align="center">Sophomore IT Student</h3>
 
-- [glat20478@gmail.com](mailto:glat20478@gmail.com) (Personal Account)
+- 📫 How to reach me: **glat20478@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/pplknowitsgio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pplknowitsgio" height="30" width="40" /></a>
+<a href="https://instagram.com/iorustic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iorustic" height="30" width="40" /></a>
+<a href="https://medium.com/@luxmoncoeur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@luxmoncoeur" height="30" width="40" /></a>
+</p>
 
-## 📱 My Social Media 
-- [Instagram](https://instagram.com/iorustic)
-- [Facebook](https://facebook.com/gioangelo.lat) 
-<!--
-**luxmoncoeur/luxmoncoeur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
