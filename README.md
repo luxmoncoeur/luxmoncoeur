@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=480&lines=Aspiring+Software+Engineer;Digital+Designer;Powered+by+choco+banana+frappe+%3B)" alt="Typing SVG" />
 </a>
 
-<a href="https://linkedin.com/in/gio-angelo-lat" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" width="36" alt="LinkedIn" /></a>&nbsp;<a href="mailto:glat20478@gmail.com" title="Email"><img src="https://skillicons.dev/icons?i=gmail" width="36" alt="Email" /></a>&nbsp;<a href="https://instagram.com/iorustic" title="Instagram"><img src="https://skillicons.dev/icons?i=instagram" width="36" alt="Instagram" /></a>
+<a href="https://linkedin.com/in/gio-angelo-lat" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" width="36" alt="LinkedIn" /></a>&nbsp;<a href="mailto:latgio03@gmail.com" title="Email"><img src="https://skillicons.dev/icons?i=gmail" width="36" alt="Email" /></a>&nbsp;<a href="https://instagram.com/iorustic" title="Instagram"><img src="https://skillicons.dev/icons?i=instagram" width="36" alt="Instagram" /></a>
 
 </div>
 
