@@ -49,7 +49,7 @@ I build web apps, automate workflows, and design interfaces and graphics.
 | Project | What it does | Built with |
 | :-- | :-- | :-- |
 | [**AnalytIQ Studio**](https://github.com/luxmoncoeur/AnalytIQ-Studio) | Statistics workstation that shows every step of regression and Z-tests | Next.js · Tailwind |
-| **Pharmacy Management System** | Multi-branch POS and inventory with expiry tracking | Express · MySQL |
+| [**Pharmacy Management System**](https://github.com/luxmoncoeur/Pharmacy-Management-System) | Multi-branch POS and inventory with expiry tracking | Express · MySQL |
 | [**quiet-mystic-pull**](https://github.com/luxmoncoeur/quiet-mystic-pull) | Digital art portfolio set up like a small museum | Astro · Three.js · GSAP |
 | [**n8n Local AI Reviewer**](https://github.com/luxmoncoeur/n8n-local-ai-reviewer) | Workflow that reviews code automatically | n8n · Ollama |
 | [**matcha-corner**](https://github.com/luxmoncoeur/matcha-corner) | A tiny pretend matcha café with shareable treat links | React · Vite |
